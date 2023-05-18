@@ -43,7 +43,7 @@ The objective of the game is to clear lines by filling them completely with bloc
 ![Gameplay]([Screenshot (133)](https://github.com/mani0bne/Tetris/assets/119604785/d820735a-70ca-4bf6-9049-78e16726caed))
 
 ## Contributing!!
-
+Contributed by Manihas and Rafeeq
 
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
